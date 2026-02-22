@@ -24,7 +24,7 @@ Goal: Build a scalable, production-style web application that supports closet ma
 - 3D outfit preview
 - Experimental 3D-from-photo research
 
-- Frontend:
+Frontend:
 - React
 - TypeScript
 
